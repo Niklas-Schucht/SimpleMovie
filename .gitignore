@@ -1,0 +1,5 @@
+*.DS_Store
+xcuserdata/
+*.xcuserstate
+
+SimpleMovie/Config/TMDBSecrets.plist
